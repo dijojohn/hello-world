@@ -1,2 +1,2 @@
 # hello-world
-hello, or hi!
+Hello, or Hi!
